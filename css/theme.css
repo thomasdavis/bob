@@ -1,0 +1,34 @@
+.container {
+  background-color: #ebebeb;
+  min-height: 600px;
+}
+.container h1 {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #444;
+}
+
+code {
+  border:1px dashed #E1E1E1;
+  color:#333344;
+  background:#FAFAFA;
+  font-family:monospace;
+  overflow:auto;
+  font-size:11px;
+  padding:0.2em;
+}
+
+a, a:visited {
+  color: #444;
+}
+ 
+a:hover {
+  color: #000;
+  text-decoration: none;
+} 
+
+.un-bulleted {
+  list-style: none;
+}
